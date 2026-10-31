@@ -1,6 +1,7 @@
 # plp-da-a1-gikomba-stall-analysis
 
 **Student Name:** Denise Ndirangu
+
 **Cohort:** Data Analytics with Python - 1 Million Devs Cohort
 
 ---
